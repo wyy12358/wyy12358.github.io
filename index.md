@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 
-I'm 
+I'm a Master's student in Statistics 
